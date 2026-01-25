@@ -1,0 +1,17 @@
+{
+  "name": "青松智陪",
+  "short_name": "青松智陪",
+  "description": "专业、温暖、科技助老",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "logo.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
